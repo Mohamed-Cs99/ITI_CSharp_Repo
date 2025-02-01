@@ -133,7 +133,7 @@ namespace Lab1
 
             bool isLeapYear(int ly)
             {
-                return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0); 
+                return (ly % 4 == 0 && ly % 100 != 0) || (ly % 400 == 0); 
                       
             }
 
