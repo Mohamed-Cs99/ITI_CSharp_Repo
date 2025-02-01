@@ -106,12 +106,12 @@ namespace Lab1
 
             bool ValidateDate(int y , int m , int d )
             {
-                if(year < 2000 || year >  2024)
+                if(y < 2000 || y >  2024)
                 {
                     return false; 
                 }
 
-                if(month < 1 || month > 12 )
+                if(m < 1 || m > 12 )
                 {
                     return false; 
                 }
@@ -123,7 +123,7 @@ namespace Lab1
                     daysInMonth[1] = 29; 
                 }
 
-                if (day < 1 || day > daysInMonth[month - 1])
+                if (d < 1 || d > daysInMonth[m - 1])
                 {
                     return false; 
                 }
