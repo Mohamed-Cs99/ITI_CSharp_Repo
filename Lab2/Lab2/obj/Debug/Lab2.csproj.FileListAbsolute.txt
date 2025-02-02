@@ -1,0 +1,7 @@
+C:\Users\Mohamed Maher\Desktop\ProjectHub\ITI_CSharp_Repo\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Mohamed Maher\Desktop\ProjectHub\ITI_CSharp_Repo\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Mohamed Maher\Desktop\ProjectHub\ITI_CSharp_Repo\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Mohamed Maher\Desktop\ProjectHub\ITI_CSharp_Repo\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\Mohamed Maher\Desktop\ProjectHub\ITI_CSharp_Repo\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Maher\Desktop\ProjectHub\ITI_CSharp_Repo\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Mohamed Maher\Desktop\ProjectHub\ITI_CSharp_Repo\Lab2\Lab2\obj\Debug\Lab2.pdb
